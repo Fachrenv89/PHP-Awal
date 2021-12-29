@@ -20,7 +20,7 @@
 	</h1>
 
 	<?php
-	// untuk menampilkan Hallo Nama Saya Fachren
+	// untuk menampilkan apa yang kita inginkan
 	echo "
 		<ol type='1'>
 			<li>item list</li>
